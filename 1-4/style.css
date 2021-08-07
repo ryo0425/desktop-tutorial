@@ -28,6 +28,11 @@ body {
 .center-right {
     float: right;
 }
+
+.center-right-up {
+    float: left;
+}
+
 .center-upper {
     width: 150px; 
     height: 50px;
