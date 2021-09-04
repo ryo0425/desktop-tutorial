@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(140, 135, 135);
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    border-bottom: 5px solid white;
+    padding-top: 80px;
+}
+
+form {
+    padding-top: 50px;
+}
