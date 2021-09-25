@@ -68,7 +68,7 @@ body {
     width: 100px;
 }
 .center-upper {
-    width: 125px; 
+    width: 125px;
 }
 .center-middle {
     width: 125px; 
@@ -80,6 +80,10 @@ body {
     width: 75px; 
 }
 
+.footer {
+    height: 100px;
+}
+
 }
 
 @media screen and (max-width: 479px) {
@@ -89,6 +93,7 @@ body {
 }
 .left {
     width: 150px;
+    height: 100px;
 }
 .center-upper {
     width: 150px; 
@@ -101,6 +106,15 @@ body {
 }
 .right {
     width: 150px; 
+    height: 100px;
+}
+
+.footer {
+    height: 100px;
+}
+
+.contents {
+    height: 450px;
 }
 
 
