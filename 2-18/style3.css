@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(140, 135, 135);
+    text-align: center;
+    color: white;
+}
+
+form {
+    padding-top: 20px;
+}
